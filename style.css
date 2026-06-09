@@ -1,13 +1,23 @@
-h1{
-    color:rgba(255, 4, 4, 0.842);
-    
+h1,h2{
+    color:rgba(0, 0, 0, 0.842);
+    background-color: rgb(244, 248, 248);
 
 }
 img{
     width: 200px;
+    margin-top: 20px;
 }
 body{
      text-align: center;
-    background-color: rgb(214, 209, 203);
+    background-color: rgb(255, 255, 255);
+
+}
+.cartao{
+    background-color: rgb(0, 217, 255);  
+    width: 500px;
+    margin: auto;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
 
 }
